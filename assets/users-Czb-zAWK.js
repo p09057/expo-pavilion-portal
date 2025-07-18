@@ -1,1 +1,0 @@
-const s=[{id:"tshirai",username:"tshirai",passwordHash:"49494e24",role:"admin"},{id:"hiroshi",username:"hiroshi",passwordHash:"3edf1206",role:"user"},{id:"tomoko",username:"tomoko",passwordHash:"6dbe6d77",role:"user"},{id:"atobe",username:"atobe",passwordHash:"40419a51",role:"user"}];export{s as USERS};
