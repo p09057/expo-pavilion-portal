@@ -1,0 +1,40 @@
+{
+  "links": [
+    {
+      "id": "link-1",
+      "title": "パビリオン待ち時間",
+      "url": "https://expo2025.fun/%e3%83%91%e3%83%93%e3%83%aa%e3%82%aa%e3%83%b3%e5%be%85%e3%81%a1%e6%99%82%e9%96%93/",
+      "description": "パビリオン待ち時間をリアルタイムでチェックできるサイト"
+    },
+    {
+      "id": "link-2", 
+      "title": "当日予約状況",
+      "url": "https://expo.ebii.net/",
+      "description": "パビリオンの当日予約状況をリアルタイムで確認できるサイト"
+    },
+    {
+      "id": "link-3",
+      "title": "当日枠開放時間",
+      "url": "https://drive.google.com/file/d/1mSKplmgUqk0AEh_2y2CEQa0sjtgmOido/view?pli=1",
+      "description": "パビリオンの当日枠開放スケジュール(推定)"
+    },
+    {
+      "id": "link-4",
+      "title": "グルメ待ち時間",
+      "url": "https://expo2025.fun/%e9%a3%b2%e9%a3%9f%e5%be%85%e3%81%a1%e6%99%82%e9%96%93/",
+      "description": "万博会場内の飲食店の待ち時間情報をリアルタイムで確認できるサイト"
+    },
+    {
+      "id": "link-5",
+      "title": "イベント情報",
+      "url": "https://expo-calendar.com/",
+      "description": "イベントスケジュールを日別に確認できるサイト"
+    },
+    {
+      "id": "link-6",
+      "title": "パビリオン調査情報",
+      "url": "https://onedrive.live.com/personal/599a513807be7e53/_layouts/15/Doc.aspx?sourcedoc=%7B910a6ff5-264e-47d5-871c-eef709708ceb%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy81OTlhNTEzODA3YmU3ZTUzL0VmVnZDcEZPSnRWSGh4enU5d2x3ak9zQnhIdi1TR2FERW4yd3J3enNiR01NdFE_ZT1LbG1pNHM&slrid=ce52b3a1-2035-0000-d5cc-cfa476d5388a&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy81OTlhNTEzODA3YmU3ZTUzL0VmVnZDcEZPSnRWSGh4enU5d2x3ak9zQnhIdi1TR2FERW4yd3J3enNiR01NdFE_cnRpbWU9SXJldEtjM0czVWc&CID=a11ae35e-443a-4ca4-93cf-5f13edd27286&_SRM=0:G:237",
+      "description": "有志の方がパビリオンを周り調査した情報をまとめたスプレッドシート"
+    }
+  ]
+}
